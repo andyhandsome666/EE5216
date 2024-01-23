@@ -1,4 +1,4 @@
-# This is a course in NTHU EE "***Timing Circuits and Applications***"  
+### This is a course in NTHU EE "***Timing Circuits and Applications***"  
 The course includes three projects
 * **_SAR_** - Successive Approximation Register
 * **_DCO_** - Digital Controlled Ocsillator
