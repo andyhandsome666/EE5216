@@ -1,5 +1,5 @@
-This is a course in NTHU EE "Timing Circuits and Applications"  
+This is a course in NTHU EE "_Timing Circuits and Applications_"  
 The course includes three projects
-* SAR - Successive Approximation Register
-* DCO - Digital Controlled Ocsillator
-* PLL - cell based Phase Locked Loop
+* _SAR_ - Successive Approximation Register
+* _DCO_ - Digital Controlled Ocsillator
+* _PLL_ - cell based Phase Locked Loop
